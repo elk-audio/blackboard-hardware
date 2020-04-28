@@ -1,0 +1,134 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Projects\sika_UI\Project Outputs for sika_UI\Pick Place\Pick Place for sika_UI.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       08-02-20
+Time:       21:35
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Layer       Center-X(mil) Center-Y(mil) Rotation 
+U1         BottomLayer 2162.463      1707.401      180      
+R14        BottomLayer 2301.129      1703.881      270      
+S7         BottomLayer 335.140       3551.181      360      
+S6         BottomLayer -98.425       3551.181      360      
+J24        TopLayer    5279.370      1938.583      360      
+C10        BottomLayer 2550.000      1680.000      90       
+R20        BottomLayer 2425.000      1680.000      270      
+C9         BottomLayer 2490.000      1680.000      90       
+C4         BottomLayer 1935.000      1680.000      90       
+C3         BottomLayer 2040.000      1680.000      90       
+C2         BottomLayer 1845.000      1715.000      360      
+C1         BottomLayer 1730.000      1665.000      90       
+R13        BottomLayer 4635.000      2105.000      270      
+R12        BottomLayer 3790.000      2105.800      270      
+R11        BottomLayer 4215.000      2105.000      270      
+R10        BottomLayer 3172.703      2085.000      180      
+R9         BottomLayer -100.118      708.661       270      
+R8         BottomLayer 480.591       708.661       270      
+R7         BottomLayer 1086.465      682.000       360      
+R6         BottomLayer 1651.850      708.661       270      
+R5         BottomLayer 2242.402      708.661       270      
+R4         BottomLayer 2827.047      708.662       270      
+D9         TopLayer    27.560        698.819       0        
+D8         TopLayer    608.268       698.819       0        
+D7         TopLayer    1198.817      698.819       0        
+D6         TopLayer    1779.528      698.819       0        
+D5         TopLayer    2370.079      698.819       0        
+D4         TopLayer    2954.724      698.819       0        
+S1         BottomLayer 1202.272      3551.181      360      
+S2         BottomLayer 768.706       3551.181      360      
+J35        BottomLayer -102.362      2710.630      360      
+J32        BottomLayer -102.362      3169.291      360      
+S9         TopLayer    5410.787      2705.000      90       
+J26        TopLayer    50.433        1946.457      180      
+J25        TopLayer    50.433        1188.583      180      
+J23        TopLayer    5279.370      1180.709      360      
+J19        TopLayer    2401.576      3137.796      180      
+J17        TopLayer    1874.017      3137.796      180      
+J13        TopLayer    3381.891      3137.796      180      
+J11        TopLayer    3909.450      3137.796      180      
+J21        TopLayer    2854.332      3137.796      180      
+J20        TopLayer    2401.576      2683.071      180      
+J18        TopLayer    1874.017      2683.071      180      
+J14        TopLayer    3381.891      2683.071      180      
+J12        TopLayer    3909.450      2683.071      180      
+J22        TopLayer    2854.332      2683.071      180      
+J9         TopLayer    893.701       3137.796      180      
+J7         TopLayer    440.945       3137.796      180      
+J5         TopLayer    4437.010      3137.796      180      
+J3         TopLayer    4889.766      3137.796      180      
+J15        TopLayer    1421.261      3137.796      180      
+J10        TopLayer    893.701       2683.071      180      
+POT2       TopLayer    3983.722      1547.770      0        
+POT1       TopLayer    3123.493      1547.770      0        
+POT3       TopLayer    3558.525      1547.770      0        
+POT4       TopLayer    4408.923      1547.770      0        
+J8         TopLayer    440.945       2683.071      180      
+J6         TopLayer    4437.010      2683.071      180      
+J4         TopLayer    4889.766      2683.071      180      
+J16        TopLayer    1421.261      2683.071      180      
+S3         TopLayer    4714.566      501.221       180      
+S5         TopLayer    1782.902      501.221       180      
+S8         TopLayer    3541.901      501.221       180      
+S4         TopLayer    2955.568      501.221       180      
+S12        TopLayer    27.835        503.189       180      
+S13        TopLayer    1196.569      501.221       180      
+S10        TopLayer    4128.234      501.221       180      
+S11        TopLayer    2369.235      501.221       180      
+S14        TopLayer    610.236       501.221       180      
+R36        BottomLayer 1265.000      711.000       270      
+R31        BottomLayer 2327.703      708.661       270      
+R30        BottomLayer -14.816       708.661       270      
+R29        BottomLayer 1195.000      686.000       270      
+R32        BottomLayer 4081.640      708.661       270      
+R38        BottomLayer 651.194       708.661       270      
+R37        BottomLayer 565.892       708.661       270      
+R26        BottomLayer 1822.454      708.661       270      
+R27        BottomLayer 3582.296      708.661       270      
+R17        BottomLayer 2912.349      708.661       270      
+R16        BottomLayer 1737.152      708.661       270      
+R15        BottomLayer 3496.995      708.661       270      
+R18        BottomLayer 4670.223      708.661       270      
+R33        BottomLayer 4166.942      708.661       270      
+R34        BottomLayer 2413.005      708.661       270      
+R35        BottomLayer 70.486        708.661       270      
+R19        BottomLayer 4755.525      708.661       270      
+R25        BottomLayer 2997.651      708.661       270      
+C13        BottomLayer 4252.244      708.661       270      
+C17        BottomLayer 736.496       708.661       270      
+C16        BottomLayer 1340.000      710.000       270      
+C15        BottomLayer 155.787       708.661       270      
+C14        BottomLayer 2498.307      708.661       270      
+C8         BottomLayer 3082.953      708.661       270      
+C11        BottomLayer 1907.756      708.661       270      
+C12        BottomLayer 3667.598      708.661       270      
+C5         BottomLayer 4840.827      708.661       270      
+D1         TopLayer    4715.551      698.819       0        
+R28        BottomLayer 913.386       1250.000      270      
+R3         BottomLayer 3411.693      708.661       270      
+R2         BottomLayer 3996.339      708.661       270      
+R1         BottomLayer 4586.614      708.661       270      
+R24        BottomLayer 891.000       915.000       90       
+R23        BottomLayer 967.000       915.000       270      
+R22        BottomLayer 1043.000      915.000       90       
+R21        BottomLayer 1119.000      915.000       270      
+EN1        TopLayer    1070.591      1085.158      0        
+D3         TopLayer    3539.370      698.819       0        
+D2         TopLayer    4123.492      698.819       0        
+C7         BottomLayer 815.000       915.000       90       
+C6         BottomLayer 1195.000      915.000       90       
+POT5       TopLayer    5294.527      371.063       0        
+J2         TopLayer    2068.701      3581.497      180      
+oled1      TopLayer    2171.178      1461.694      360      
+J29        BottomLayer 3513.504      2339.679      90       
+J30        BottomLayer 3513.504      1858.262      270      
+J31        BottomLayer 3515.699      1341.292      270      
+J34        BottomLayer 1230.039      1570.417      270      
+J28        TopLayer    1505.512      152.362       180      
+J27        TopLayer    3824.213      152.362       180      
+J33        BottomLayer 1230.039      2105.194      90       
+J1         TopLayer    3701.772      3581.497      360      

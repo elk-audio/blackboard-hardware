@@ -1,0 +1,33 @@
+ELK SIKA UI - rev 2
+(11 Feb 2020 - 02:25 PM)
+
+PCB Specification
+-------------------------------------------------
+Copper Layers:      4
+Material:           Standard FR4 1.6mm
+Finish:             Lead free HASL on 1oz copper
+Solder Mask:        Matt Black
+Silk:               White (Both sides)
+Dimensions:         155 x 95mm
+
+Files
+-------------------------------------------------
+Top copper:         sika_UI.GTL
+Inner copper 1:     sika_UI.G2L
+Inner copper 2:     sika_UI.G3L
+Bottom copper:      sika_UI.GBL
+Top soldermask:     sika_UI.GTS
+Bottom soldermask:  sika_UI.GBS
+Top paste:          sika_UI.GTP
+Bottom paste:       sika_UI.GBP
+Top Silk:           sika_UI.GTO
+Bottom Silk:        sika_UI.GBO
+Board outline:      sika_UI.GKO
+Holes:              sika_UI-RectHoles.TXT
+Holes:              sika_UI-RoundHoles.TXT
+Holes:              sika_UI-SlotHoles.TXT
+
+Notes
+-------------------------------------------------
+- Please do not insert any extra markings into 
+  the silkscreen. No board ID or other tags.
